@@ -20,13 +20,12 @@
 
 title: Des Données aux Decisions - Dominique Degbey
 email: Dominiquekayeon@gmail.com.com
-description: Bienvenue sur mon portfolio !
-Je m'appelle Dominique DEGBEY, une passionnée de science des données avec un niveau bac+4 en Data science and Business Intelligence. À travers ce portfolio, je présente mes projets personnels où j'explore l'analyse de données, le machine learning, et la visualisation de données. Mon objectif est de transformer les données en informations exploitables pour soutenir des décisions éclairées.
-Découvrez mes travaux et les solutions que j'ai développées au fil de mon parcours dans ce domaine fascinant
+description: >
+  Bienvenue sur mon portfolio ! Je m'appelle Dominique DEGBEY, une passionnée de science des données avec un niveau bac+4 en Data Science and Business Intelligence. À travers ce portfolio, je présente mes projets personnels où j'explore l'analyse de données, le machine learning, et la visualisation de données. Mon objectif est de transformer les données en informations exploitables pour soutenir des décisions éclairées. Découvrez mes travaux et les solutions que j'ai développées au fil de mon parcours dans ce domaine fascinant.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kayeon27.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  "Dominiquekayeon"
 
 # Build settings
 remote_theme: pages-themes/modernist@v0.2.0
